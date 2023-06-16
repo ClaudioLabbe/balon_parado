@@ -1,0 +1,539 @@
+[
+ {
+  "Id": 1186860277217953986,
+  "Name": "Liga chilena",
+  "Start_date": "2023-05-05T00:00:00Z",
+  "End_date": "2023-07-05T00:00:00Z",
+  "Club": [
+   {
+    "Id": 6848907546683713244,
+    "Position": 1,
+    "Games_played": 0,
+    "Gf": 0,
+    "Points": 0,
+    "Name": "Sudacraks FC",
+    "Stadium": "Metropolitano",
+    "Team_formation": "3-4-1-2",
+    "Players": [
+     {
+      "Id": 1488099844462153047,
+      "ID_PSN": "Claudio_L_T",
+      "Position": "",
+      "Dorsal": 4,
+      "User": {
+       "Id": 614633144386337730,
+       "Name": "Claudio",
+       "LastName": "Labbé"
+      }
+     },
+     {
+      "Id": 2427377181571179478,
+      "ID_PSN": "Carlos_L_T",
+      "Position": "DC",
+      "Dorsal": 11,
+      "User": {
+       "Id": 8532551753056631539,
+       "Name": "Carlos",
+       "LastName": "Labbé"
+      }
+     }
+    ]
+   },{
+    "Id": 6848907546683713244,
+    "Position": 1,
+    "Games_played": 0,
+    "Gf": 0,
+    "Points": 0,
+    "Name": "Chillan Viejo",
+    "Stadium": "Metropolitano",
+    "Team_formation": "3-4-1-2",
+    "Players": [
+     {
+      "Id": 1488099844462153047,
+      "ID_PSN": "Claudio_L_T",
+      "Position": "",
+      "Dorsal": 4,
+      "User": {
+       "Id": 614633144386337730,
+       "Name": "Claudio",
+       "LastName": "Labbé"
+      }
+     },
+     {
+      "Id": 2427377181571179478,
+      "ID_PSN": "Carlos_L_T",
+      "Position": "DC",
+      "Dorsal": 11,
+      "User": {
+       "Id": 8532551753056631539,
+       "Name": "Carlos",
+       "LastName": "Labbé"
+      }
+     }
+    ]
+   },{
+    "Id": 6848907546683713244,
+    "Position": 1,
+    "Games_played": 0,
+    "Gf": 0,
+    "Points": 0,
+    "Name": "Red Dragons",
+    "Stadium": "Metropolitano",
+    "Team_formation": "3-4-1-2",
+    "Players": [
+     {
+      "Id": 1488099844462153047,
+      "ID_PSN": "Claudio_L_T",
+      "Position": "",
+      "Dorsal": 4,
+      "User": {
+       "Id": 614633144386337730,
+       "Name": "Claudio",
+       "LastName": "Labbé"
+      }
+     },
+     {
+      "Id": 2427377181571179478,
+      "ID_PSN": "Carlos_L_T",
+      "Position": "DC",
+      "Dorsal": 11,
+      "User": {
+       "Id": 8532551753056631539,
+       "Name": "Carlos",
+       "LastName": "Labbé"
+      }
+     }
+    ]
+   },{
+    "Id": 6848907546683713244,
+    "Position": 1,
+    "Games_played": 0,
+    "Gf": 0,
+    "Points": 0,
+    "Name": "Sudakas",
+    "Stadium": "Metropolitano",
+    "Team_formation": "3-4-1-2",
+    "Players": [
+     {
+      "Id": 1488099844462153047,
+      "ID_PSN": "Claudio_L_T",
+      "Position": "",
+      "Dorsal": 4,
+      "User": {
+       "Id": 614633144386337730,
+       "Name": "Claudio",
+       "LastName": "Labbé"
+      }
+     },
+     {
+      "Id": 2427377181571179478,
+      "ID_PSN": "Carlos_L_T",
+      "Position": "DC",
+      "Dorsal": 11,
+      "User": {
+       "Id": 8532551753056631539,
+       "Name": "Carlos",
+       "LastName": "Labbé"
+      }
+     }
+    ]
+   },{
+    "Id": 6848907546683713244,
+    "Position": 1,
+    "Games_played": 0,
+    "Gf": 0,
+    "Points": 0,
+    "Name": "Flecha Verde",
+    "Stadium": "Metropolitano",
+    "Team_formation": "3-4-1-2",
+    "Players": [
+     {
+      "Id": 1488099844462153047,
+      "ID_PSN": "Claudio_L_T",
+      "Position": "",
+      "Dorsal": 4,
+      "User": {
+       "Id": 614633144386337730,
+       "Name": "Claudio",
+       "LastName": "Labbé"
+      }
+     },
+     {
+      "Id": 2427377181571179478,
+      "ID_PSN": "Carlos_L_T",
+      "Position": "DC",
+      "Dorsal": 11,
+      "User": {
+       "Id": 8532551753056631539,
+       "Name": "Carlos",
+       "LastName": "Labbé"
+      }
+     }
+    ]
+   },{
+    "Id": 6848907546683713244,
+    "Position": 1,
+    "Games_played": 0,
+    "Gf": 0,
+    "Points": 0,
+    "Name": "Dynamos",
+    "Stadium": "Metropolitano",
+    "Team_formation": "3-4-1-2",
+    "Players": [
+     {
+      "Id": 1488099844462153047,
+      "ID_PSN": "Claudio_L_T",
+      "Position": "",
+      "Dorsal": 4,
+      "User": {
+       "Id": 614633144386337730,
+       "Name": "Claudio",
+       "LastName": "Labbé"
+      }
+     },
+     {
+      "Id": 2427377181571179478,
+      "ID_PSN": "Carlos_L_T",
+      "Position": "DC",
+      "Dorsal": 11,
+      "User": {
+       "Id": 8532551753056631539,
+       "Name": "Carlos",
+       "LastName": "Labbé"
+      }
+     }
+    ]
+   },{
+    "Id": 6848907546683713244,
+    "Position": 1,
+    "Games_played": 0,
+    "Gf": 0,
+    "Points": 0,
+    "Name": "Coliseo",
+    "Stadium": "Metropolitano",
+    "Team_formation": "3-4-1-2",
+    "Players": [
+     {
+      "Id": 1488099844462153047,
+      "ID_PSN": "Claudio_L_T",
+      "Position": "",
+      "Dorsal": 4,
+      "User": {
+       "Id": 614633144386337730,
+       "Name": "Claudio",
+       "LastName": "Labbé"
+      }
+     },
+     {
+      "Id": 2427377181571179478,
+      "ID_PSN": "Carlos_L_T",
+      "Position": "DC",
+      "Dorsal": 11,
+      "User": {
+       "Id": 8532551753056631539,
+       "Name": "Carlos",
+       "LastName": "Labbé"
+      }
+     }
+    ]
+   },{
+    "Id": 6848907546683713244,
+    "Position": 1,
+    "Games_played": 0,
+    "Gf": 0,
+    "Points": 0,
+    "Name": "Esege Gaming",
+    "Stadium": "Metropolitano",
+    "Team_formation": "3-4-1-2",
+    "Players": [
+     {
+      "Id": 1488099844462153047,
+      "ID_PSN": "Claudio_L_T",
+      "Position": "",
+      "Dorsal": 4,
+      "User": {
+       "Id": 614633144386337730,
+       "Name": "Claudio",
+       "LastName": "Labbé"
+      }
+     },
+     {
+      "Id": 2427377181571179478,
+      "ID_PSN": "Carlos_L_T",
+      "Position": "DC",
+      "Dorsal": 11,
+      "User": {
+       "Id": 8532551753056631539,
+       "Name": "Carlos",
+       "LastName": "Labbé"
+      }
+     }
+    ]
+   },{
+    "Id": 6848907546683713244,
+    "Position": 1,
+    "Games_played": 0,
+    "Gf": 0,
+    "Points": 0,
+    "Name": "Lota Schwager",
+    "Stadium": "Metropolitano",
+    "Team_formation": "3-4-1-2",
+    "Players": [
+     {
+      "Id": 1488099844462153047,
+      "ID_PSN": "Claudio_L_T",
+      "Position": "",
+      "Dorsal": 4,
+      "User": {
+       "Id": 614633144386337730,
+       "Name": "Claudio",
+       "LastName": "Labbé"
+      }
+     },
+     {
+      "Id": 2427377181571179478,
+      "ID_PSN": "Carlos_L_T",
+      "Position": "DC",
+      "Dorsal": 11,
+      "User": {
+       "Id": 8532551753056631539,
+       "Name": "Carlos",
+       "LastName": "Labbé"
+      }
+     }
+    ]
+   },{
+    "Id": 6848907546683713244,
+    "Position": 1,
+    "Games_played": 0,
+    "Gf": 0,
+    "Points": 0,
+    "Name": "Whiskola",
+    "Stadium": "Metropolitano",
+    "Team_formation": "3-4-1-2",
+    "Players": [
+     {
+      "Id": 1488099844462153047,
+      "ID_PSN": "Claudio_L_T",
+      "Position": "",
+      "Dorsal": 4,
+      "User": {
+       "Id": 614633144386337730,
+       "Name": "Claudio",
+       "LastName": "Labbé"
+      }
+     },
+     {
+      "Id": 2427377181571179478,
+      "ID_PSN": "Carlos_L_T",
+      "Position": "DC",
+      "Dorsal": 11,
+      "User": {
+       "Id": 8532551753056631539,
+       "Name": "Carlos",
+       "LastName": "Labbé"
+      }
+     }
+    ]
+   },{
+    "Id": 6848907546683713244,
+    "Position": 1,
+    "Games_played": 0,
+    "Gf": 0,
+    "Points": 0,
+    "Name": "Rhynos",
+    "Stadium": "Metropolitano",
+    "Team_formation": "3-4-1-2",
+    "Players": [
+     {
+      "Id": 1488099844462153047,
+      "ID_PSN": "Claudio_L_T",
+      "Position": "",
+      "Dorsal": 4,
+      "User": {
+       "Id": 614633144386337730,
+       "Name": "Claudio",
+       "LastName": "Labbé"
+      }
+     },
+     {
+      "Id": 2427377181571179478,
+      "ID_PSN": "Carlos_L_T",
+      "Position": "DC",
+      "Dorsal": 11,
+      "User": {
+       "Id": 8532551753056631539,
+       "Name": "Carlos",
+       "LastName": "Labbé"
+      }
+     }
+    ]
+   },{
+    "Id": 6848907546683713244,
+    "Position": 1,
+    "Games_played": 0,
+    "Gf": 0,
+    "Points": 0,
+    "Name": "Ni al Metro",
+    "Stadium": "Metropolitano",
+    "Team_formation": "3-4-1-2",
+    "Players": [
+     {
+      "Id": 1488099844462153047,
+      "ID_PSN": "Claudio_L_T",
+      "Position": "",
+      "Dorsal": 4,
+      "User": {
+       "Id": 614633144386337730,
+       "Name": "Claudio",
+       "LastName": "Labbé"
+      }
+     },
+     {
+      "Id": 2427377181571179478,
+      "ID_PSN": "Carlos_L_T",
+      "Position": "DC",
+      "Dorsal": 11,
+      "User": {
+       "Id": 8532551753056631539,
+       "Name": "Carlos",
+       "LastName": "Labbé"
+      }
+     }
+    ]
+   },{
+    "Id": 6848907546683713244,
+    "Position": 1,
+    "Games_played": 0,
+    "Gf": 0,
+    "Points": 0,
+    "Name": "Kayser",
+    "Stadium": "Metropolitano",
+    "Team_formation": "3-4-1-2",
+    "Players": [
+     {
+      "Id": 1488099844462153047,
+      "ID_PSN": "Claudio_L_T",
+      "Position": "",
+      "Dorsal": 4,
+      "User": {
+       "Id": 614633144386337730,
+       "Name": "Claudio",
+       "LastName": "Labbé"
+      }
+     },
+     {
+      "Id": 2427377181571179478,
+      "ID_PSN": "Carlos_L_T",
+      "Position": "DC",
+      "Dorsal": 11,
+      "User": {
+       "Id": 8532551753056631539,
+       "Name": "Carlos",
+       "LastName": "Labbé"
+      }
+     }
+    ]
+   },{
+    "Id": 6848907546683713244,
+    "Position": 1,
+    "Games_played": 0,
+    "Gf": 0,
+    "Points": 0,
+    "Name": "Pichangass",
+    "Stadium": "Metropolitano",
+    "Team_formation": "3-4-1-2",
+    "Players": [
+     {
+      "Id": 1488099844462153047,
+      "ID_PSN": "Claudio_L_T",
+      "Position": "",
+      "Dorsal": 4,
+      "User": {
+       "Id": 614633144386337730,
+       "Name": "Claudio",
+       "LastName": "Labbé"
+      }
+     },
+     {
+      "Id": 2427377181571179478,
+      "ID_PSN": "Carlos_L_T",
+      "Position": "DC",
+      "Dorsal": 11,
+      "User": {
+       "Id": 8532551753056631539,
+       "Name": "Carlos",
+       "LastName": "Labbé"
+      }
+     }
+    ]
+   },{
+    "Id": 6848907546683713244,
+    "Position": 1,
+    "Games_played": 0,
+    "Gf": 0,
+    "Points": 0,
+    "Name": "No Toxicos",
+    "Stadium": "Metropolitano",
+    "Team_formation": "3-4-1-2",
+    "Players": [
+     {
+      "Id": 1488099844462153047,
+      "ID_PSN": "Claudio_L_T",
+      "Position": "",
+      "Dorsal": 4,
+      "User": {
+       "Id": 614633144386337730,
+       "Name": "Claudio",
+       "LastName": "Labbé"
+      }
+     },
+     {
+      "Id": 2427377181571179478,
+      "ID_PSN": "Carlos_L_T",
+      "Position": "DC",
+      "Dorsal": 11,
+      "User": {
+       "Id": 8532551753056631539,
+       "Name": "Carlos",
+       "LastName": "Labbé"
+      }
+     }
+    ]
+   },{
+    "Id": 6848907546683713244,
+    "Position": 1,
+    "Games_played": 0,
+    "Gf": 0,
+    "Points": 0,
+    "Name": "Indisciplinados",
+    "Stadium": "Metropolitano",
+    "Team_formation": "3-4-1-2",
+    "Players": [
+     {
+      "Id": 1488099844462153047,
+      "ID_PSN": "Claudio_L_T",
+      "Position": "",
+      "Dorsal": 4,
+      "User": {
+       "Id": 614633144386337730,
+       "Name": "Claudio",
+       "LastName": "Labbé"
+      }
+     },
+     {
+      "Id": 2427377181571179478,
+      "ID_PSN": "Carlos_L_T",
+      "Position": "DC",
+      "Dorsal": 11,
+      "User": {
+       "Id": 8532551753056631539,
+       "Name": "Carlos",
+       "LastName": "Labbé"
+      }
+     }
+    ]
+   }
+  ]
+ }
+]
