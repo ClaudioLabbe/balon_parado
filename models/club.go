@@ -50,7 +50,6 @@ func readFileClub() []Club {
 	var clubList []Club
 
 	if err != nil {
-		fmt.Println("Archivo no existe")
 		return clubList
 	} else {
 
@@ -64,6 +63,8 @@ func readFileClub() []Club {
 }
 
 func (club Club) Add(name, stadium, team_formation string) Club {
+
+	fmt.Println("* Creando registros de Club")
 
 	var clubList []Club = readFileClub()
 
@@ -89,6 +90,7 @@ func (club Club) Add(name, stadium, team_formation string) Club {
 }
 
 func (club Club) AddPlayerToClub(id_psn, nameClub string) Club {
+	fmt.Println("Agregando jugador al club")
 	var player Player
 
 	for _, v := range filePlayer() {
@@ -105,7 +107,6 @@ func (club Club) AddPlayerToClub(id_psn, nameClub string) Club {
 
 	for _, v := range readFileClub() {
 		if v.Name == nameClub {
-			fmt.Println("Club existe")
 			club = v
 		}
 	}
@@ -123,8 +124,6 @@ func (club Club) AddPlayerToClub(id_psn, nameClub string) Club {
 		return club
 	}
 
-	fmt.Println(player)
-	fmt.Println(club)
 	club.Players = append(club.Players, player)
 	newFileClub(club)
 

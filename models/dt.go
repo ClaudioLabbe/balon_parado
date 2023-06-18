@@ -83,8 +83,6 @@ func (dt Dt) Add(name, lastName string, club Club) Dt {
 
 func (dt Dt) Update(name, lastName string, club Club) Dt {
 
-	dt = Dt{}
-
 	var dtList []Dt = ReadFileDt()
 
 	for _, v := range dtList {

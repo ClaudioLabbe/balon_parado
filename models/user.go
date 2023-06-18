@@ -91,7 +91,7 @@ func (user User) List() {
 	fmt.Printf(lineInicio, "Listado de usuarios")
 	fmt.Fprintln(w, "Nombres\tApellidos\t")
 	for _, v := range userList {
-		fmt.Fprintln(w, "\t"+v.Name+"\t"+v.LastName+"\t")
+		fmt.Fprintln(w, v.Name+"\t"+v.LastName+"\t")
 	}
 	w.Flush()
 

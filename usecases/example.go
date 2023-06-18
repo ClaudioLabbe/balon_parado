@@ -46,7 +46,7 @@ func Create() {
 	// Para la creacion de un DT se necesita nombre del usuario y apellido del usuario creado anteriormente y club
 	dt.Add("Jorge", "Carrasco", models.Club{})
 	time.Sleep(2 * time.Second)
-	metod = dt.Update("Max", "Calvo", club)
+	metod = dt.Update("Jorge", "Carrasco", club)
 	time.Sleep(2 * time.Second)
 
 	dt.List()
